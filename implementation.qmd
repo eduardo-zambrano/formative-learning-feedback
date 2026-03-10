@@ -35,6 +35,10 @@ Two modes are recommended. Instructors should choose the one that best fits thei
 
 In-class administration is preferred because it typically produces higher response rates and takes only a few minutes. However, online administration may be more practical for large-enrollment courses or courses with irregular meeting patterns.
 
+::: {.callout-tip title="The technology already exists"}
+Several universities have deployed online platforms that allow instructors to build and deploy formative feedback surveys in minutes. UC Irvine's [EEE Evaluations system](https://evaluations.eee.uci.edu/), for example, lets instructors select dimensions, choose items, set a collection window, and view results — all through a self-service web interface. Implementing a similar tool at Cal Poly would not require building from scratch; the CTLT could adapt existing survey infrastructure to offer a comparable experience.
+:::
+
 
 ## Anonymity
 
