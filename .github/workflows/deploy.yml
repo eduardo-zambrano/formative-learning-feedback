@@ -40,9 +40,6 @@ jobs:
       - name: Render Quarto Book
         run: quarto render
 
-      - name: Encrypt HTML with StaticCrypt
-        run: npx staticrypt@3 _book/*.html -p "${{ secrets.SITE_PASSWORD }}" --remember 30 -d _book
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
