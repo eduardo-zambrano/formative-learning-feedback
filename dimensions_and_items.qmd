@@ -1,6 +1,6 @@
 # Integrating Effective Teaching Practices Into the Formative Learning Feedback {#sec-dimensions}
 
-The formative feedback instrument is organized around seven dimensions of learning, each drawn from the research-based principles identified by Ambrose et al. ([2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104)). For each dimension, we provide:
+The formative feedback instrument is organized around seven dimensions of learning, each drawn from the research-based principles identified by Ambrose et al. ([2010](https://firstliteracy.org/wp-content/uploads/2015/07/How-Learning-Works.pdf)). For each dimension, we provide:
 
 - The **guiding question** from Ambrose et al.
 - A brief description of **what it captures**
